@@ -1,0 +1,26 @@
+#symbol {
+    border: 1px solid #000000;
+}
+
+.container {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 750px;
+}
+
+.buttons-container {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 550px;
+}
+
+button {
+    font-size: 26pt;
+    padding: 5px;
+}
